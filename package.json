@@ -1,0 +1,23 @@
+{
+  "name": "scribbler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "body-parser": "^1.13.2",
+    "cheerio": "^0.19.0",
+    "express": "^4.13.1",
+    "method-override": "^2.3.4",
+    "morgan": "^1.6.1",
+    "node-fs": "^0.1.7",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
